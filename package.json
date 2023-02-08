@@ -1,0 +1,24 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "atul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^14.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atultiwari2810/automation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Atultiwari2810/automation/issues"
+  },
+  "homepage": "https://github.com/Atultiwari2810/automation#readme"
+}
